@@ -77,6 +77,8 @@ Random lines location (PiTest - CodeBERT - IBIR)
 
 ### Link for rest of data ℹ️ (each .tar file contains ReadMe guidelines with data format and structure)
 
+* 👉 [Download RQ3 data](./data/RQ3/rq3_zip_data.tar.gz)
+
 * 👉 [Download Pit data ]() 
 * 👉 [Download CodeBERT data]()
 * 👉 [Download DeepMutation data]()
