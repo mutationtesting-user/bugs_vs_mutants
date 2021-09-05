@@ -4,6 +4,15 @@
 
 ### RQ1
 
+PiTest - CodeBERT - DeepMutation - IBIR
+
+<p float="center">
+  <img src="./data/plots/RQ1/RQ1_bleu_class.png" width="225" title="PiTest"/>
+  <img src="./data/plots/RQ1/RQ1_bleu_class.png" width="225" title="CodeBERT"/> 
+  <img src="./data/plots/RQ1/RQ1_bleu_class.png" width="225" title="DeepMutation"/>
+  <img src="./data/plots/RQ1/RQ1_bleu_class.png" width="225" title="IBIR"/>
+</p>
+  
 ### RQ2
 
 ### RQ3
