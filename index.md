@@ -11,10 +11,10 @@ Class granularity level (PiTest - CodeBERT - DeepMutation - IBIR)
 ```
 
 <p float="center">
-  <img src="./data/plots/RQ1/RQ1_bleu_class.png" width="160" title="PiTest"/>
-  <img src="./data/plots/RQ1/RQ1_bleu_class.png" width="160" title="CodeBERT"/> 
-  <img src="./data/plots/RQ1/RQ1_bleu_class.png" width="160" title="DeepMutation"/>
-  <img src="./data/plots/RQ1/RQ1_bleu_class.png" width="160" title="IBIR"/>
+  <img src="./data/plots/RQ1/PIT/RQ1_bleu_class.png" width="160" title="PiTest"/>
+  <img src="./data/plots/RQ1/PIT/RQ1_bleu_class.png" width="160" title="CodeBERT"/> 
+  <img src="./data/plots/RQ1/PIT/RQ1_bleu_class.png" width="160" title="DeepMutation"/>
+  <img src="./data/plots/RQ1/PIT/RQ1_bleu_class.png" width="160" title="IBIR"/>
 </p>
   
 ### RQ2
