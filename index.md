@@ -1,6 +1,6 @@
 # Technical paper - ICSE 2022 - Supplementary data
 
-## Empirical evaluation
+## Empirical evaluation 
 
 ### RQ1
 
@@ -60,7 +60,7 @@ Changed lines location (PiTest - CodeBERT - IBIR)
 ```
 
 <p float="center">
-  <img src="./data/plots/RQ1/PIT/RQ_jaccard_class.png" width="160" title="PiTest"/>
+  <img src="./data/plots/RQ1/PIT/RQ1_cosine_changed_lines.png" width="160" title="PiTest"/>
   <img src="./data/plots/RQ1/CodeBERT/RQ1_cosine_changed_lines.png" width="160" title="CodeBERT"/> 
   <img src="./data/plots/RQ1/IBIR/RQ1_cosine_changed_lines.png" width="160" title="IBIR"/>
 </p>
@@ -70,16 +70,20 @@ Random lines location (PiTest - CodeBERT - IBIR)
 ```
 
 <p float="center">
-  <img src="./data/plots/RQ1/PIT/RQ_jaccard_class.png" width="160" title="PiTest"/>
+  <img src="./data/plots/RQ1/PIT/RQ1_cosine_random_lines.png" width="160" title="PiTest"/>
   <img src="./data/plots/RQ1/CodeBERT/RQ1_cosine_random_lines.png" width="160" title="CodeBERT"/> 
   <img src="./data/plots/RQ1/IBIR/RQ1_cosine_random_lines.png" width="160" title="IBIR"/>
 </p>
 
-### Link for rest of data
+### Link for rest of data ℹ️ (each .tar file contains ReadMe guidelines with data format and structure)
 
-👉 [Download Pit data]()
+* 👉 [Download Pit data ]() 
+* 👉 [Download CodeBERT data]()
+* 👉 [Download DeepMutation data]()
+* 👉 [Download IBIR data]()
+
 
 ### Support or Contact
 
-Check our [Git-Repo](https://github.com/mutationtesting-user/bugs_vs_mutants)
+Check our [Git-Repo](https://github.com/mutationtesting-user/bugs_vs_mutants) for all descriptive statistics data
 
