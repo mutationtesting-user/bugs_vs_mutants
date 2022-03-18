@@ -8,7 +8,7 @@
 
 > How semantically and syntactically similar are seeded and real faults?
 
-### Results - Cosine Coefficient
+### Results - Cosine Coefficient over BLEU score
 ```
 Class granularity level (PiTest - CodeBERT - DeepMutation - IBIR)
 ```
@@ -30,7 +30,7 @@ Function granularity level (PiTest - CodeBERT - DeepMutation - IBIR)
   <img src="./data/plots/RQ1/IBIR/RQ1_cosine_class.png" width="160" title="IBIR"/>
 </p>
 
-### Results - Jaccard Coefficient
+### Results - Jaccard Coefficient over BLEU score
 ```
 Class granularity level (PiTest - CodeBERT - DeepMutation - IBIR)
 ```
