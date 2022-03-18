@@ -79,9 +79,9 @@ Random lines location (PiTest - CodeBERT - IBIR)
 
 ### Link for rest of data ℹ️ (each .tar file contains ReadMe guidelines with data format and structure)
 
-* 👉 [Download repository with scripts](./plots.tar.gz)
+* 👉 [Download repository with scripts](./scripts.tar.gz)
 * 👉 [Download plots](./plots.tar.gz)
-* 👉 [Download data](./plots.tar.gz)
+* 👉 [Download data](https://drive.google.com/file/d/1W3VH4geuniP8n4Rca2j8flX9FfBNLlq0/view)
 
 
 * 👉 [Download Pit data ](https://drive.google.com/file/d/1SNdo7-XZRXfUNuqCH867HoJGwuNIkPU2/view?usp=sharing) (⚠️ heavy file) 
