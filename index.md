@@ -1,10 +1,12 @@
-# Technical paper - ESEC/FSE 2022 - Supplementary data
+# Technical paper - ESEC/FSE 2022
+
+# Supplementary data
 
 ## Empirical evaluation 
 
 ### RQ1
 
-> Many seeded faults behave quite similarly to real faults (high semantic similarity) while at the same time having low syntactical similarity to real faults. Perhaps surprisingly, we find no evidence suggesting any link between syntactic and semantic similarity, except from the cases of exact matches.
+> How semantically and syntactically similar are seeded and real faults?
 
 ### Results - Cosine Coefficient
 ```
@@ -77,7 +79,7 @@ Random lines location (PiTest - CodeBERT - IBIR)
 
 ### Link for rest of data ℹ️ (each .tar file contains ReadMe guidelines with data format and structure)
 
-* 👉 [Download RQ3 data](./data/RQ3/rq3_zip_data.tar.gz)
+* 👉 [Download repository with scripts and data](./data/RQ3/rq3_zip_data.tar.gz)
 
 * 👉 [Download Pit data ](https://drive.google.com/file/d/1SNdo7-XZRXfUNuqCH867HoJGwuNIkPU2/view?usp=sharing) (⚠️ heavy file) 
 * 👉 [Download CodeBERT data](https://drive.google.com/file/d/1RLd9ryVT_7JTRp1WARofdUp0ghjpKZ2r/view?usp=sharing) (⚠️ heavy file)
