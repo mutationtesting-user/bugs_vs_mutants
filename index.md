@@ -1,4 +1,4 @@
-# Technical paper - ICSE 2022 - Supplementary data
+# Technical paper - ESEC/FSE 2022 - Supplementary data
 
 ## Empirical evaluation 
 
