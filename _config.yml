@@ -1,4 +1,4 @@
 theme: jekyll-theme-architect
-title: Bug vs Mutant
-description: Syntactic Vs Semantic similarity of Artificial and Real Faults in Mutation Testing Studies
+title: Artifical vs Real
+description: On the use of syntactic distance metrics in evaluating fault mimicking techniques
 show_downloads: true
