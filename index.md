@@ -1,4 +1,4 @@
-# Technical paper - ESEC/FSE 2022
+# Journal First - TSE 2022
 
 # Supplementary data
 
