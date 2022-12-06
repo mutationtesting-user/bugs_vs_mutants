@@ -8,7 +8,7 @@
 
 > How semantically and syntactically similar are seeded and real faults?
 
-### Results - Cosine Coefficient over BLEU score
+### Results - Cosine Coefficient - Ochiai score
 ```
 Class granularity level (PiTest - CodeBERT - DeepMutation - IBIR)
 ```
@@ -30,7 +30,7 @@ Function granularity level (PiTest - CodeBERT - DeepMutation - IBIR)
   <img src="./data/plots/RQ1/IBIR/RQ1_cosine_class.png" width="160" title="IBIR"/>
 </p>
 
-### Results - Jaccard Coefficient over BLEU score
+### Results - Jaccard Coefficient - Ochiai score
 ```
 Class granularity level (PiTest - CodeBERT - DeepMutation - IBIR)
 ```
@@ -75,6 +75,19 @@ Random lines location (PiTest - CodeBERT - IBIR)
   <img src="./data/plots/RQ1/PIT/RQ1_cosine_random_lines.png" width="160" title="PiTest"/>
   <img src="./data/plots/RQ1/CodeBERT/RQ1_cosine_random_lines.png" width="160" title="CodeBERT"/> 
   <img src="./data/plots/RQ1/IBIR/RQ1_cosine_random_lines.png" width="160" title="IBIR"/>
+</p>
+
+
+> Using Fault Detection Probability instead of Ochiai score for measurement
+
+
+<p float="center">
+  <img src="./data/plots/subsumed_real_faults.png" width="300" title="Subsumed Faults"/>
+</p>
+
+
+<p float="center">
+  <img src="./data/plots/ratio_of_mutants.png" width="300" title="Subsumed Faults"/>
 </p>
 
 ### Link for rest of data ℹ️ (each .tar file contains ReadMe guidelines with data format and structure)
