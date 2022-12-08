@@ -4,11 +4,23 @@
 
 ## Empirical evaluation 
 
-### RQ1
+### RQ1 - Results per tool
 
 > How semantically and syntactically similar are seeded and real faults?
 
-### Results - Cosine Coefficient - Ochiai score
+### BLEU Coefficient - Ochiai score
+```
+Class granularity level (PiTest - CodeBERT - DeepMutation - IBIR)
+```
+
+<p float="center">
+  <img src="./data/plots/RQ1/PIT/RQ1_bleu_class.png" width="160" title="PiTest"/>
+  <img src="./data/plots/RQ1/CodeBERT/Scatter-Plot-codebert_bleu_ochiai_RQ1_all___Box_plot.png" width="160" title="CodeBERT"/> 
+  <img src="./data/plots/RQ1/DeepMutation/Scatter-Plot-nmt_bleu_ochiai_RQ1_all___Box_plot.png" width="160" title="DeepMutation"/>
+  <img src="./data/plots/RQ1/IBIR/Scatter-Plot-ibir_bleu_ochiai_RQ1_all___Box_plot.png" width="160" title="IBIR"/>
+</p>
+
+### Cosine Coefficient - Ochiai score
 ```
 Class granularity level (PiTest - CodeBERT - DeepMutation - IBIR)
 ```
@@ -30,7 +42,7 @@ Function granularity level (PiTest - CodeBERT - DeepMutation - IBIR)
   <img src="./data/plots/RQ1/IBIR/RQ1_cosine_class.png" width="160" title="IBIR"/>
 </p>
 
-### Results - Jaccard Coefficient - Ochiai score
+### Jaccard Coefficient - Ochiai score
 ```
 Class granularity level (PiTest - CodeBERT - DeepMutation - IBIR)
 ```
