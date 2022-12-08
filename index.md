@@ -90,6 +90,10 @@ Random lines location (PiTest - CodeBERT - IBIR)
   <img src="./data/plots/ratio_of_mutants.png" width="300" title="Subsumed Faults"/>
 </p>
 
+<p float="center">
+  <img src="./data/plots/ratio_per_tool.png" width="300" title="Subsumed Faults"/>
+</p>
+
 ### Link for rest of data ℹ️ (each .tar file contains ReadMe guidelines with data format and structure)
 
 * 👉 [Download repository with scripts](./scripts.tar.gz)
