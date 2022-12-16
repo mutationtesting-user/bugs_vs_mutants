@@ -110,7 +110,7 @@ Random lines location (PiTest - CodeBERT - IBIR)
 
 * 👉 [Download repository with scripts](./scripts.tar.gz)
 * 👉 [Download plots](https://drive.google.com/file/d/1AQ7PTvJ0SZM7uVpudD-NLMBF2BgMDpmX/view?usp=sharing)
-* 👉 [Download data]([https://drive.google.com/file/d/1W3VH4geuniP8n4Rca2j8flX9FfBNLlq0/view](https://drive.google.com/file/d/1x9bhZH0i8wuK5cgGwwXf2OLFGJqtA4L1/view?usp=sharing))
+* 👉 [Download data](https://drive.google.com/file/d/1W3VH4geuniP8n4Rca2j8flX9FfBNLlq0/view](https://drive.google.com/file/d/1x9bhZH0i8wuK5cgGwwXf2OLFGJqtA4L1/view?usp=sharing)
 
 
 * 👉 [Download Pit data ](https://drive.google.com/file/d/1SNdo7-XZRXfUNuqCH867HoJGwuNIkPU2/view?usp=sharing) (⚠️ heavy file) 
